@@ -19,7 +19,7 @@ Hi, I'm Jack! I'm excited to present this video, where I walk you through how Ch
 
 ### ✅ Go to Remix
 
-Navigate to [Remix](https://remix.ethereum.org/).
+Navigate to [Remix](https://bit.ly/4fzhY6b).
 
 ### ✅ Create a Smart Contract
 
